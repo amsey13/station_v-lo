@@ -15,7 +15,7 @@ La simulation inclut la gestion des utilisateurs, des états de vélos, des acce
 
 ### 2.1 Récupérer les sources depuis le depôt git
 ```bash
-git clone <https://gitlab-etu.fil.univ-lille.fr/kadiatou.barry2.etu/projet_coo.git>
+git clone <https://github.com/amsey13/coo.git>
 cd projet_coo
 ```
 ### 2.2 Générer la documentation
